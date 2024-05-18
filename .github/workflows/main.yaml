@@ -30,5 +30,5 @@ jobs:
           ECR_REPOSITORY: diamondpriceprediction
           IMAGE_TAG: latest
         run: |
-          docker build -t $ECR_REGISTRY/$ECR_REPOSITORY: $IMAGE_TAG .
+          docker -f C:\Users\UK\DiamondPricePrediction\Dockerfile build -t $ECR_REGISTRY/$ECR_REPOSITORY: $IMAGE_TAG .
           docker push $ECR_REGISTRY/$ECR_REPOSITORY: $IMAGE_TAG
