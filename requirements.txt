@@ -5,4 +5,8 @@ seaborn
 ipykernel
 flask
 
+
+mlflow
+dvc
+apache-airflow
 -e .

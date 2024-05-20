@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/UK/DiamondPricePrediction/mlruns/0/3c47c07b92fd4a29a0c45957079b53bc/artifacts
+end_time: 1716211845213
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c47c07b92fd4a29a0c45957079b53bc
+run_name: amusing-eel-64
+run_uuid: 3c47c07b92fd4a29a0c45957079b53bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716211837108
+status: 3
+tags: []
+user_id: UK
