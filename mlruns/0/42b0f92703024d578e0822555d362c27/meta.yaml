@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/UK/DiamondPricePrediction/mlruns/0/42b0f92703024d578e0822555d362c27/artifacts
+end_time: 1716210847857
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42b0f92703024d578e0822555d362c27
+run_name: gifted-cat-590
+run_uuid: 42b0f92703024d578e0822555d362c27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716210839332
+status: 3
+tags: []
+user_id: UK
