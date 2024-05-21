@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/UK/DiamondPricePrediction/mlruns/0/66c6868b50164fa08e3e4d48dc3bad00/artifacts
+end_time: 1716323606636
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 66c6868b50164fa08e3e4d48dc3bad00
+run_name: shivering-calf-302
+run_uuid: 66c6868b50164fa08e3e4d48dc3bad00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716323600538
+status: 3
+tags: []
+user_id: UK

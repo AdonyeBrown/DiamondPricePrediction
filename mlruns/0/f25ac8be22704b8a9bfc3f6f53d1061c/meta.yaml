@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/UK/DiamondPricePrediction/mlruns/0/f25ac8be22704b8a9bfc3f6f53d1061c/artifacts
+end_time: 1716323817486
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f25ac8be22704b8a9bfc3f6f53d1061c
+run_name: zealous-mare-856
+run_uuid: f25ac8be22704b8a9bfc3f6f53d1061c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716323811293
+status: 3
+tags: []
+user_id: UK

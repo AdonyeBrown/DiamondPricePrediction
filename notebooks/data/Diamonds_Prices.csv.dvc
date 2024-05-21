@@ -1,0 +1,5 @@
+outs:
+- md5: 00f332f7cdff9fff65b8868056afa87c
+  size: 2815122
+  hash: md5
+  path: Diamonds_Prices.csv
